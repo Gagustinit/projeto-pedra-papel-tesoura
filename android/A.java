@@ -1,0 +1,1 @@
+flutter create pedra_papel_tesoura
